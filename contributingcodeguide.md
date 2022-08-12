@@ -21,7 +21,7 @@ At the 30,000 foot level, here's what our "world" looks like:
 5. Verify the accuracy of the transformed results data.
 6. Bake out structured, easy-to-use CSV and JSON files that form our public API.
 
-We use Python (2.7 for now) to accomplish most of these tasks.
+We use Python 3 to accomplish most of these tasks.
 
 Here's a high-level snapshot of how a state directory's code is organized, using Maryland as an example:
 
